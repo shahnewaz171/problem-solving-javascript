@@ -24,3 +24,11 @@ var reverse = sentence.split('').reverse().join('');
 
 console.log(reverse);
 
+
+function add(a, b){
+
+    add =  a + b;
+
+}
+add(568, 254);
+console.log(add);
