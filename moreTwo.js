@@ -7,5 +7,5 @@ function add(numbers){
     }
     return sum;
 }
-var result = add(4);
+var result = add(5);
 console.log(result);
