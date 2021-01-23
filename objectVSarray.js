@@ -9,7 +9,7 @@ var ami = {
     age: 17,
     weight: 45,
     height: 65,
-    color: 'Blue'
+    color: 'navyBlue'
 };
 var lookingFor = 'age';
 var myAge = ami[lookingFor];
