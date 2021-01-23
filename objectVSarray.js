@@ -1,7 +1,7 @@
 //arrayVsObject
 
 //array
-var friendsAge = [17, 20, 22, 24];
+var friendsAge = [17, 20, 22, 24, 30];
 
 
 //Object
