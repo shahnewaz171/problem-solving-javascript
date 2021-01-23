@@ -29,5 +29,5 @@ function fibonacciRecursive(num){
     fibo.push(nextFibo);
     return fibo;
 }
-var result = fibonacciRecursive(10);
+var result = fibonacciRecursive(8);
 console.log(result);
