@@ -13,7 +13,7 @@
 
 
 //===Using function===//
-var num = [20, 30, 40, 50, 60, 70, 80, 90];
+var num = [20, 30, 40, 50, 60, 70, 80, 100];
 var sum = 0;
 
 function getArraySum(numbers){
