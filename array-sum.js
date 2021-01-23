@@ -1,5 +1,5 @@
-var num = [20, 30, 40, 50, 60, 70, 80, 90];
-var sum = 0;
+// var num = [20, 30, 40, 50, 60, 70, 80, 90];
+// var sum = 0;
 
 // for(i = 0; i < num.length; i++){
 //     var element = num[i];
@@ -13,7 +13,7 @@ var sum = 0;
 
 
 //===Using function===//
-var numbers = [20, 30, 40, 50, 60, 70, 80, 90];
+var num = [20, 30, 40, 50, 60, 70, 80, 90];
 var sum = 0;
 
 function getArraySum(numbers){
@@ -23,7 +23,7 @@ function getArraySum(numbers){
     }
     return sum;
 }
-var result = getArraySum(numbers);
+var result = getArraySum();
 console.log('Total of the numbers: ', result);
 
 

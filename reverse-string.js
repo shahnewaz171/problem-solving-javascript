@@ -27,7 +27,7 @@ console.log(reverse);
 
 function add(a, b){
 
-    add =  a + b;
+    return a + b;
 
 }
 add(568, 254);
